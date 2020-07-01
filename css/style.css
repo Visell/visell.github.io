@@ -1,0 +1,36 @@
+body,
+html {
+  font-family: 'Montserrat', sans-serif;
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+  color: #555;
+  font-weight: 400;
+  width: 100% !important;
+  height: 100% !important;
+}
+/* Header Section */
+.intro {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  background: #00276a;
+  width: 100%;
+  text-align: center;
+}
+
+.mainImage {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.btn {
+  background-color: #fdbc0b;
+  color: white;
+  font-size: x-large;
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+header {
+  height: 100%;
+}
